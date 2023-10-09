@@ -1,0 +1,12 @@
+{
+  "name": "trie-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node ./test/*.test.js"
+  },
+  "author": "arlechann",
+  "license": "CC0-1.0"
+}
